@@ -3,7 +3,7 @@ import { AddCategoty } from "./AddCategoty";
 import { GifGrid } from "./GifGrid";
 
 export const GifExpert = () => {
-    let [categories, setCategories] = useState(["One Punch Man"]);
+    let [categories, setCategories] = useState(["Deadh Note"]);
 
     return (
         <>
